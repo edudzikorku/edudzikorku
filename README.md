@@ -1,6 +1,6 @@
 ## Akpakli Edudzi
 ***********************************************************************************************************************************************************************
-[![GitHub](https://img.shields.io/badge/GitHub-edudzikorku-green?logo=github)](https://edudzikorku.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-edudzikorku-green?style=for-the-badge&logo=github&logoColor=white&link=[https://medium.com/@akpakliedudzi/)](https://edudzikorku.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/edudzi-akpakli229761121/
 )](linkedin.com/in/edudzi-akpakli229761121)
 [![Medium](https://img.shields.io/badge/Medium-Profile-indianred?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@akpakliedudzi/)](https://medium.com/@akpakliedudzi)
