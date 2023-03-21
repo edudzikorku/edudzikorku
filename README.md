@@ -1,7 +1,15 @@
-[![LinkedIn]<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>)](linkedin.com/in/edudzi-akpakli229761121
+[![LinkedIn](https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg)](linkedin.com/in/edudzi-akpakli229761121
 )
 
 ## Akpakli Edudzi
+
+
+I am a Spatial Data Analyst with five years of experience in the field, I possess a wealth of expertise in utilizing geographic information systems (GIS) and remote sensing techniques to analyze and interpret spatial data. With a keen eye for detail, I am adept at creating and analyzing maps and spatial models using Python programming and SQL to support decision making and problem solving.
+
+My proficiency in utilizing GIS software such as QGIS and ArcGIS, coupled with my strong analytical and critical thinking skills, enables me to effectively communicate findings and recommendations to both technical and non-technical audiences. Additionally, my Bachelor’s degree in Geography and Regional Planning from the [University of Cape Coast](https://ucc.edu.gh/), Ghana, provides me with a solid foundation to tackle complex projects.
+
+What sets me apart is my passion for applying technology to make the physical environment a little better. My research interests include Geographic Information Science and Remote Sensing, and I am constantly exploring new and innovative ways to apply geospatial big data and cloud computing (e.g., Google Earth Engine) to study environmental hazards, both natural and man-made.
+
 
 <!--
 **edudzikorku/edudzikorku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
