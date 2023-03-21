@@ -1,4 +1,7 @@
-## Background
+[![LinkedIn](https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/latest-linkedin-logo-1-1536x806.png)](linkedin.com/in/edudzi-akpakli229761121
+)
+
+## Akpakli Edudzi
 
 <!--
 **edudzikorku/edudzikorku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
