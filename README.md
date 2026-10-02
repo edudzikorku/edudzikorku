@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://web.facebook.com/profile.php?id=100006233115264/)](https://web.facebook.com/profile.php?id=100006233115264)
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-brightgreen?style=for-the-badge&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~011a3ebb23e4ec2b2d/)](https://www.upwork.com/freelancers/~011a3ebb23e4ec2b2d)
 
-I am a Geospatial Data Engineer with over four (4) years of experience in the field. I possess a wealth of expertise in utilising geographic information systems (GIS) and remote sensing techniques to analyse and interpret spatial data. With a keen eye for detail, I am adept at creating and analyzing maps and spatial models using Python programming and SQL to support decision-making and problem-solving.
+I am a GIS and Remote Sensing Analyst with over four (4) years of experience in the field. I possess a wealth of expertise in utilising geographic information systems (GIS) and remote sensing techniques to analyse and interpret spatial data. With a keen eye for detail, I am adept at creating and analyzing maps and spatial models using Python programming and SQL to support decision-making and problem-solving.
 
 My proficiency in utilising GIS software such as QGIS and ArcGIS, coupled with my strong analytical and critical thinking skills, enables me to effectively communicate findings and recommendations to both technical and non-technical audiences. Additionally, my Bachelor’s degree in Geography and Regional Planning from the [University of Cape Coast](https://ucc.edu.gh/), Ghana, provides me with a solid foundation to tackle complex projects.
 
